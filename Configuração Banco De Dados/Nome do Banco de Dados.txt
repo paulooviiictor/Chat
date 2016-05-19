@@ -1,0 +1,4 @@
+Nome do Banco De Dados : chat
+Nome das tabelas :
+			usuarios
+			mensagens
